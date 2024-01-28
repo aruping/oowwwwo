@@ -22,4 +22,4 @@ async def update_game_status():
     await bot.change_presence(activity=discord.Streaming(name='F', type=discord.ActivityType.streaming, url='https://www.twitch.tv/monstercat'))
 
 # Bot'u çalıştır
-bot.run("MTIwMTE3NDg4NzY2Mjg3ODc4MA.GPlBly.FKVK_qWEUQjL8rSOysbESY0p-uy-e8x4ehhVqk")
+bot.run("MTIwMTE3NDg4NzY2Mjg3ODc4MA.GZa9uC.VmRLma4QvI8bpyDT5_cf_k9rqaPW8BEWofL5zk")
